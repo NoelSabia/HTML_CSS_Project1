@@ -1,0 +1,52 @@
+/* home */
+.flexbox_start{
+	display: flex;
+	height: 10vh;
+	justify-content: center;
+	align-items: center;
+	background-color: black;
+}
+
+/* pricing */
+.grid-pricing{
+	display: grid;
+	justify-content: center;
+	border: solid #b99657;
+	border-radius: 2%;
+	margin: 3vh;
+	height: 80vh;
+}
+
+.container1 {
+	display: grid;
+	grid-template-columns: repeat(3, 43vh);
+	grid-template-rows: 1fr;
+	column-gap: 5vh;
+	row-gap: 10vh;
+	justify-content: center;
+	justify-items: center;
+	padding: 10vh;
+}
+
+.container2 {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap: 5vh;
+	grid-template-rows: 1fr;
+}
+
+.container-appointment{
+	display: grid;
+	grid-template-columns: repeat(1, 1fr);	
+	padding: 10vh 30vh 0vh 65vh;
+}
+
+.container-gallery{
+	display:grid;
+	grid-template-columns: repeat(1, 1fr);	
+	padding: 10vh 30vh 0vh 30vh;
+}
+
+.form-control.is-invalid {
+	border-color: initial;
+}
