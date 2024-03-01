@@ -43,3 +43,8 @@ jQuery(Library for JS):
 Where to find the CDN: https://developers.google.com/speed/libraries#jquery
 Minify for speedgains: https://minifier.org/
 Cheat Sheet: https://htmlcheatsheet.com/jquery/ and https://api.jquery.com/# Portfolio1_Hairdresser
+
+
+Leistungen:
+WhatsApp-Business
+Datenauswertung
