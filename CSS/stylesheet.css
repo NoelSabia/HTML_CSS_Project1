@@ -1,3 +1,34 @@
+
+@media (min-width: 320px){
+	
+}
+
+@media (min-width: 480px){
+
+}
+
+@media (min-width: 768px){
+
+}
+
+@media (min-width: 1024px){
+
+}
+
+@media (min-width: 1200px){
+
+}
+
+@media (min-width: 1440px){
+
+}
+
+@media (min-width: 1920px){
+
+}
+
+@media (min-width: 2000px) {
+
 /* home */
 .flexbox_start{
 	display: flex;
@@ -49,4 +80,5 @@
 
 .form-control.is-invalid {
 	border-color: initial;
+}
 }
