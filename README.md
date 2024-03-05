@@ -45,6 +45,8 @@ https://www.npmjs.com/
 
 ## React (UI components)
 - Material UI components -> https://mui.com/material-ui/all-components/
+- Shadcn -> https://ui.shadcn.com/
+- Headless UI -> https://headlessui.com/
 
 Leistungen:
 WhatsApp-Business
