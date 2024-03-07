@@ -37,17 +37,58 @@ Minify for speedgains: https://minifier.org/
 Cheat Sheet: https://htmlcheatsheet.com/jquery/ and https://api.jquery.com/# Portfolio1_Hairdresser
 
 # Backend
+## How to start a local Server
+1. mkdir ...
+2. cd ... && touch index.js
+3. npm init -y
+4. npm i express && npm i -g nodemon && npm install(<- if npm downloaded something new)
+5. (Go into index.js and import express and make a get + add "type": "module",)
+6. (Terminal) node index.js
+
 ## Node Documentation (runtime env for JS)
 https://nodejs.org/docs/latest/api/
 
 ## npm (Node package manager)
 https://www.npmjs.com/
 
+## HTTPS
+|Vocab|Does|
+|-|-|
+|.get|request resources|
+|.post|sending resources|
+|.put|replace resource (completely replace the website)|
+|.patch|patch up a resource (only replace a part of a website)|
+|.delete|delete resource|
+
+## Middleware (bodyParser)
+Usage: Middleware acts as a bridge or intermediary layer between the incoming HTTP request and the final route handler in a web application, enabling preprocessing, manipulation, and enhancement of the request or response.
+Terminal:
+npm i body-parser || npm i morgan
+JS:
+import bodyParser from "body-parser"; || import morgan from "morgan";
+app.use(bodyParser.urlencoded({ extended: true })); || app.use(morgan("dev"));
+
+## EJS Tags (Embedded JS)
+|Tags|Task|
+|-|-|
+|<%= variable %>|JS Output|
+|<% consol.log("hello") %>|JS Execute|
+|<%- "<h1>Hello</h1>" %>|Render HTML|
+|<%% %%>|Show <% or %>|
+|<%# This is a comment %>|Stop Execution|
+|<%- include("header.ejs") %>|Insert another EJS file|
+
+
+
+
+
 ## React (UI components)
 - Material UI components -> https://mui.com/material-ui/all-components/
 - Shadcn -> https://ui.shadcn.com/
 - Headless UI -> https://headlessui.com/
 
+# Own Ideas for Business
 Leistungen:
 WhatsApp-Business
 Datenauswertung
+Termine direkt in ein System einspeisen
