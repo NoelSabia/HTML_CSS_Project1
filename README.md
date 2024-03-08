@@ -25,6 +25,8 @@ Switch between serif and san serif makes it more interesting also weight can mak
 ### Good Practice
 - Start with Webdev on phones and scale up
 - First features than design
+- Compress Pictures (https://tinypng.com/)
+- Icon maker (https://crop-circle.imageonline.co/)
 
 
 ## Javascript:
@@ -41,7 +43,7 @@ Cheat Sheet: https://htmlcheatsheet.com/jquery/ and https://api.jquery.com/# Por
 1. mkdir ...
 2. cd ... && touch index.js
 3. npm init -y
-4. npm i express && npm i -g nodemon && npm install(<- if npm downloaded something new)
+4. npm i ejs && npm i express && npm i -g nodemon && npm install(<- if npm downloaded something new)
 5. (Go into index.js and import express and make a get + add "type": "module",)
 6. (Terminal) node index.js
 
