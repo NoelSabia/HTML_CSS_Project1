@@ -94,3 +94,4 @@ Leistungen:
 WhatsApp-Business
 Datenauswertung
 Termine direkt in ein System einspeisen
+Beratungsgespraech vor Ort (mit Beispielen etc pp)
