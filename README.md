@@ -93,5 +93,6 @@ app.use(bodyParser.urlencoded({ extended: true })); || app.use(morgan("dev"));
 Leistungen:
 WhatsApp-Business
 Datenauswertung
+Fotograph fuer 1 Stunde
 Termine direkt in ein System einspeisen
 Beratungsgespraech vor Ort (mit Beispielen etc pp)
