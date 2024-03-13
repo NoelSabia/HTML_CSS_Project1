@@ -96,3 +96,5 @@ Datenauswertung
 Fotograph fuer 1 Stunde
 Termine direkt in ein System einspeisen
 Beratungsgespraech vor Ort (mit Beispielen etc pp)
+Datenauswertung
+Termine direkt in ein System einspeisen
