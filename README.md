@@ -96,5 +96,4 @@ Leistungen:
 3. Fotograph fuer 1 Stunde
 4. Termine direkt in ein System einspeisen
 5. Beratungsgespraech vor Ort (mit Beispielen etc pp)
-6. Datenauswertung
-7. Termine direkt in ein System einspeisen
+6. Termine direkt in ein System einspeisen
