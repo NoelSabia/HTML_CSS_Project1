@@ -91,10 +91,10 @@ app.use(bodyParser.urlencoded({ extended: true })); || app.use(morgan("dev"));
 
 # Own Ideas for Business
 Leistungen:
-WhatsApp-Business
-Datenauswertung
-Fotograph fuer 1 Stunde
-Termine direkt in ein System einspeisen
-Beratungsgespraech vor Ort (mit Beispielen etc pp)
-Datenauswertung
-Termine direkt in ein System einspeisen
+1. WhatsApp-Business
+2. Datenauswertung
+3. Fotograph fuer 1 Stunde
+4. Termine direkt in ein System einspeisen
+5. Beratungsgespraech vor Ort (mit Beispielen etc pp)
+6. Datenauswertung
+7. Termine direkt in ein System einspeisen
